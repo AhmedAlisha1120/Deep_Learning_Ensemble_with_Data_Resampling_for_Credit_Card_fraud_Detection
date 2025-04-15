@@ -12,6 +12,10 @@ Dataset link:
 
 https://drive.google.com/file/d/1N7vrSpIyVTUHCfQ6YWgxwZULMhdRKO--/view?usp=sharing
 
+Presentation Link:
+
+https://1drv.ms/p/c/6ff2608d36c1eae7/EVfLuDbpeQBAg2L0R7-RIUUBAeUB2GEeAotllWMZSSEZ-Q
+
 Description
 
 A robust deep-learning approach that consists of long short-term memory (LSTM) and gated recurrent unit (GRU) neural networks as base learners in a stacking ensemble framework, with a multilayer perceptron (MLP) as the meta-learner. Meanwhile, the hybrid synthetic minority oversampling technique and edited nearest neighbor (SMOTE-ENN) method is employed to balance the class distribution in the dataset. The experimental results showed that combining the proposed deep learning ensemble with the SMOTE-ENN method achieved a sensitivity and specificity of 1.000 and 0.997, respectively, which is superior to other widely used ML classifiers and methods in the literature.
